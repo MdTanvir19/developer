@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* font-family: 'Zen Tokyo Zoo', cursive; */
+}
+.col{
+    color: orange;
+}
+img{
+    /* width: 500px; */
+}
+section{
+    display: flex;
+}
+
+}
+.half{
+    width: 50%;
+    padding: 3%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.half h1{
+    margin-left: 50px;
+    
+}
+.ico{
+    margin-left: 60px;
+    border: 2px solid rgb(61, 231, 104);
+    display: inline;
+}
+.left{
+    margin-top: 50px;
+}
+.btn{
+    margin-left: 60px;
+}
+.half h3{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+.half p{
+    margin-left: 60px;
+    margin-bottom: 10px;
+
+}
+.half-second{
+    margin-left: 40%;
+}
+.half img{
+    width: 90%;
+    margin-right: 20px;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 800;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.two .half{
+    width: 50%;
+    padding: 3%;
+    background-color: grey;
+   
+   
+    
+}
+.sec{
+    /* border: orange solid; */
+    border-radius: 10px;
+    /* margin: 30px; */
+}
+nav li{
+    list-style: none;
+    margin-right: 20px;
+    font-size: 20pxs;
+}
+nav li:hover{
+    background: cadetblue;
+    padding: 0px 10px;
+    border-top: 10px solid chartreuse;
+
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+    
+}
+nav ul{
+    display: flex;
+    margin-left: 60%;
+    margin-top: 20px;
+  
+}
+nav{
+    background: grey;
+    padding: 10px;
+}
+
+.half h2{
+    margin-left: 60px;
+}
+.opt{
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+.btnt{
+    margin-top: 50px;
+}
